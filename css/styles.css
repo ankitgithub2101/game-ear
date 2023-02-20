@@ -478,6 +478,10 @@ body{
     .services{
         background-attachment: scroll !important;
     }
+      
+      .card > div{
+        top: 0 !important;
+    }
   }
 
   
