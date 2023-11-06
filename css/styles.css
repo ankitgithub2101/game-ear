@@ -900,7 +900,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    height: 100%;
+    padding:100px 0;
 }
 
 .card {
