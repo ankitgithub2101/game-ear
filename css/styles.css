@@ -901,7 +901,7 @@ body{
     background-size: cover;
     background-position: center;
     height: 100%;
-    padding:100px 0;
+    padding:0 0 130px;
 }
 
 .card {
